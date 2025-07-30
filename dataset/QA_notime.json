@@ -1,0 +1,592 @@
+{
+    "1": {
+        "Question": "Who drove the RS Q-eTron in the Dakar Rally?",
+        "Answer": "Carlos Sainz and his co-driver Lucas Cruz drove the RS Q-eTron in the Dakar Rally.",
+        "OriginalText": "Exhausted but happy, Carlos Sainz and his co-driver Lucas Cruz sit on the roof of the Audi RS Q e‑tron. Slowly, they coast through the cheering crowd at the finish of the legendary Dakar Rally. When they get off the car, they fall into the team’s arms."
+    },
+    "2": {
+        "Question": "What is the maximum system output of the Audi SQ6 e-tron²?",
+        "Answer": "The maximum system output of the Audi SQ6 e-tron² is 380 kW, including additional function.",
+        "OriginalText": "The SQ6 e-tron² delivers a system output of 380 kW¹ including additional function."
+    },
+    "3": {
+        "Question": "Which season did Ducati become the exclusive official supplier, providing motorcycles for the FIM Enel MotoE™ World Championship?",
+        "Answer": "Ducati became the exclusive official supplier for the FIM Enel MotoE™ World Championship starting in the 2023 season.",
+        "OriginalText": "From this season, Ducati is the only official supplier of motorcycles taking part in the FIM Enel MotoE™ World Championship, the electric class of the MotoGP™ World Championship."
+    },
+    "4": {
+        "Question": "How many people are at least in the management board of AUDI AG?",
+        "Answer": "The Board of Management of AUDI AG consists of at least two people.",
+        "OriginalText": "The Board of Management of AUDI AG consists of at least two people. Furthermore, the Supervisory Board determines the number of members of the Board of Management. At the time of publication, the AUDI AG Board of Management consisted of seven members."
+    },
+    "5": {
+        "Question": "How many times per year does the management board of AUDI AG meet as a Sustainability Board?",
+        "Answer": "The AUDI AG Board of Management meets at least twice a year in its role as Sustainability Board.",
+        "OriginalText": "The AUDI AG Board of Management meets at least twice a year in its role as Sustainability Board and makes fundamental and policy decisions regarding sustainability."
+    },
+    "6": {
+        "Question": "In which year did Audi AG transfer a profit of EUR 918 million to Volkswagen AG?",
+        "Answer": "In 2016, Audi AG transferred a profit of EUR 918 million to Volkswagen AG.",
+        "OriginalText": "The profit after tax of AUDI AG is transferred to Volkswagen AG. The AUDI AG condensed income statement can be viewed on page 125 of the Audi 2016 Annual Report. For the 2016 fiscal year, AUDI AG transferred to Volkswagen AG a profit in the amount of EUR 918 million (2015: EUR 2,752 million)."
+    },
+    "7": {
+        "Question": "Which two factories temporarily suspended their EMAS accreditation due to the diesel issue?",
+        "Answer": "The Ingolstadt and Neckarsulm sites temporarily suspended their EMAS accreditation due to the diesel issue.",
+        "OriginalText": "In view of the diesel issue, the Ingolstadt and Neckarsulm sites had temporarily suspended EMAS accreditation."
+    },
+    "8": {
+        "Question": "What is the specific project carried out by the Audi Environmental Foundation in collaboration with the 'Artenschutz in Franken®' (Association for Species Protection in Franconia), and what award did it receive?",
+        "Answer": "The project is a Germany-wide environmental initiative in which disused transformer towers are gradually converted into 'towers of biodiversity'. The joint project was awarded the UN Prize for Biological Diversity in 2016.",
+        "OriginalText": "One example of this is a Germany-wide environmental project in which disused transformer towers are gradually converted into 'towers of biodiversity' (German only). The joint project of the Audi Environmental Foundation and the 'Artenschutz in Franken®' (association for species protection in Franconia) was awarded the UN Prize for Biological Diversity in 2016."
+    },
+    "9": {
+        "Question": "Which organization collaborated with the Audi Environmental Foundation on a project related to the honey bee superorganism?",
+        "Answer": "The Audi Environmental Foundation collaborated with the Julius Maximilian University of Würzburg on the honey bee superorganism project.",
+        "OriginalText": "Another example: A good 20,000 honey bees moved into their new home on the Audi grounds in Münchs­müns­ter in 2016. The collaborative project between the Audi Environmental Foundation and the Julius Maximilian University of Würzburg offers new insights into the honey bee superorganism."
+    },
+    "10": {
+        "Question": "Which organization certified the entire plant at the site in Sant'Agata Bolognese as a carbon-neutral production facility?",
+        "Answer": "The independent certifying body Det Norske Veritas Germanischer Lloyd certified the entire plant at the site in Sant'Agata Bolognese as a carbon-neutral production facility.",
+        "OriginalText": "As a result, the independent certifying body Det Norske Veritas Germanischer Lloyd certified the entire plant at the site in Sant’Agata Bolognese as a carbon-neutral production facility."
+    },
+    "11": {
+        "Question": "How does the water purification plant installed at Audi's San José Chiapa site in Mexico work?",
+        "Answer": "The water purification plant at Audi's San José Chiapa site in Mexico is fed by groundwater from two wells, which is then purified by ultra-filtration and reverse osmosis. The purified, low-sodium water is of drinking water quality and is used in the kitchens and washrooms.",
+        "OriginalText": "For example, a water purification plant has been installed at the San José Chiapa site in Mexico. It is fed by groundwater from two wells, which is then purified by ultra-filtration and reverse osmosis. The purified, low-sodium water is of drinking water quality and is used in the kitchens and washrooms."
+    },
+    "12": {
+        "Question": "How does the membrane bioreactor built at Audi's Ingolstadt plant work?",
+        "Answer": "The membrane bioreactor at Audi's Ingolstadt plant turns wastewater into hygienically safe process water through three treatment stages. In the first stage, organic pollutants are degraded microbiologically. This is followed by ultrafiltration, while the final stage removes minerals from the water. The process eliminates one third of the freshwater requirements in production.",
+        "OriginalText": "Audi is building a membrane bioreactor at its Ingolstadt plant to save water. Three treatment stages turn wastewater into hygienically safe process water. In the first stage, organic pollutants are degraded microbiologically. This is followed by ultrafiltration, while the final stage removes minerals from the water. The process eliminates one third of the freshwater requirements in production."
+    },
+    "13": {
+        "Question": "What are the top speeds of the Audi Q6 e-tron quattro¹ and the Audi SQ6 e-tron²?",
+        "Answer": "The top speed of the Audi Q6 e-tron quattro¹ is 210 km/h, and the top speed of the Audi SQ6 e-tron² is 230 km/h.",
+        "OriginalText": "The top speeds are 210 km/h¹ and 230 km/h² respectively."
+    },
+    "14": {
+        "Question": "What is Audi e-gas?",
+        "Answer": "Audi e-gas is synthetic methane produced from green electricity, water, and CO2 at the Audi e-gas plant in Werlte, Lower Saxony. It is used as a synthetic fuel to reduce CO2 emissions in Audi vehicles.",
+        "OriginalText": "The Audi e-gas plant in Werlte, Lower Saxony, has now been producing synthetic methane – known as Audi e-gas – from green electricity, water and CO2 since 2013."
+    },
+    "15": {
+        "Question": "What is the recycling percentage of waste at Audi's San José Chiapa site in Mexico?",
+        "Answer": "91 percent of the waste arising at Audi's San José Chiapa site in Mexico is recycled.",
+        "OriginalText": "91 percent of the waste arising at our San José Chiapa site in Mexico is recycled."
+    },
+    "16": {
+        "Question": "What is the recycling rate for production operations at Audi Hungaria?",
+        "Answer": "The recycling rate for production operations at Audi Hungaria is 95 percent.",
+        "OriginalText": "The recycling quota for production operations at Audi Hungaria is also 95 percent."
+    },
+    "17": {
+        "Question": "What measures have been taken at the Audi Münchsmünster production site to protect species' habitats?",
+        "Answer": "At the Audi Münchsmünster production site, selected measures have been taken to transform open spaces on the plant grounds into natural-like habitats for numerous plant and animal species. These measures include flower- and species-rich meadows that are only mowed twice a year. Seeds from meadows in the region are sown to strengthen regional species, and regional traditional fruit varieties serve as a food source for insects. Butterfly borders supplement the food supply.",
+        "OriginalText": "In addition, selected measures are being taken at the Audi Münchsmünster production site to transform open spaces on the plant grounds into natural-like habitats for numerous plant and animal species, such as flower- and species-rich meadows that are only mowed twice a year. Seeds from meadows in the region are sown to strengthen regional species. Regional traditional fruit varieties serve as a food source for insects; butterfly borders supplement the food supply."
+    },
+    "18": {
+        "Question": "What standard is used to determine Audi's environmental key figures?",
+        "Answer": "Audi's environmental key figures are determined based on the Volkswagen standard 98000, which defines how operational environmental data is to be determined within the Volkswagen Group and its subsidiaries.",
+        "OriginalText": "Unless otherwise indicated, the environmental key figures are determined on the basis of Volkswagen standard 98000. This standard defines how operational environmental data is to be determined within the Volkswagen Group and its subsidiaries."
+    },
+    "19": {
+        "Question": "What stages are covered in Audi's life cycle assessments (LCA)?",
+        "Answer": "Audi's life cycle assessments (LCA) analyze and evaluate all phases of the life cycle: from production, through the utilization phase, all the way to recycling.",
+        "OriginalText": "For this, we analyze and evaluate all phases of the life cycle – from production, through the utilization phase, all the way to recycling."
+    },
+    "20": {
+        "Question": "How much time do drivers spend in their cars every day according to Audi's study?",
+        "Answer": "Drivers spend 50 minutes in their cars every day.",
+        "OriginalText": "According to a study carried out by Audi and the Karlsruhe Institute for Technology, drivers spend 50 minutes in their cars every day."
+    },
+    "21": {
+        "Question": "In which Chinese city has Audi tested 15 different V2X functions?",
+        "Answer": "Audi has tested 15 different V2X functions in Wuxi, China.",
+        "OriginalText": "Audi is already testing 15 different V2X functions in Wuxi."
+    },
+    "22": {
+        "Question": "Which company is Audi collaborating with to develop a recycling loop for high-voltage battery parts?",
+        "Answer": "Audi is collaborating with the recycling group Umicore to develop a recycling loop for high-voltage battery parts.",
+        "OriginalText": "Audi also enters into research cooperations, for example with the recycling group Umicore, in order to develop a loop for parts of high-voltage batteries that could in this way be reused again and again."
+    },
+    "23": {
+        "Question": "When was the Audi e-tron presented in San Francisco?",
+        "Answer": "The Audi e-tron was presented in San Francisco in September 2018.",
+        "OriginalText": "In September 2018, the Audi e-tron was presented in San Francisco."
+    },
+    "24": {
+        "Question": "What is the recuperation power of the Audi Q6 e-tron?",
+        "Answer": "The Audi Q6 e-tron recuperates at a rate of up to 220 kW.",
+        "OriginalText": "Audi Q6 e-tron¹ recuperates at a rate of up to 220 kW in the process."
+    },
+    "25": {
+        "Question": "Which company is Audi collaborating with to provide home-based charging solutions?",
+        "Answer": "Audi is collaborating with Amazon Home Services to provide home-based charging solutions.",
+        "OriginalText": "We are working with Amazon Home Services to offer home-based charging solutions in the USA."
+    },
+    "26": {
+        "Question": "Which car rental service did Audi acquire in the United States?",
+        "Answer": "Audi acquired the car rental service Silvercar in the United States.",
+        "OriginalText": "Following the acquisition by the Four Rings of the car-rental service Silvercar in the United States, 25 mobility hubs have been created under the “Silvercar by Audi” name."
+    },
+    "27": {
+        "Question": "What is the combined electricity consumption of the Audi Q7 e-tron 3.0 TDI quattro?",
+        "Answer": "The combined electricity consumption of the Audi Q7 e-tron 3.0 TDI quattro is 19.0 – 18.1 kWh/100 km.",
+        "OriginalText": "Audi Q7 e-tron 3.0 TDI quattro Combined electricity consumption in kWh/100 km: 19.0 – 18.1"
+    },
+    "28": {
+        "Question": "How many prismatic cells are in the Audi Q6 e-tron's lithium-ion battery?",
+        "Answer": "The Audi Q6 e-tron's lithium-ion battery consists of 180 prismatic cells.",
+        "OriginalText": "The newly developed lithium-ion battery consisting of 12 modules and 180 prismatic cells with a total gross capacity of 100 kWh (94.9 kWh net)."
+    },
+    "29": {
+        "Question": "What operating system does the Audi Q6 e-tron use?",
+        "Answer": "The Audi Q6 e-tron uses Android Automotive OS as its operating system.",
+        "OriginalText": "The infotainment system in the Audi Q6 e-tron integrates the customers’ own digital world, making use of Android Automotive OS as its operating system for the first time."
+    },
+    "30": {
+        "Question": "What is an active digital light signature?",
+        "Answer": "An active digital light signature is a lighting feature that gives the headlights and rear lights a lifelike appearance through movement. At the front, it is created with 12 segments that dim up or down, and at the rear, six OLED panels with 360 segments generate a new image every 10 milliseconds using a specially developed algorithm.",
+        "OriginalText": "Audi Q6 e-tron is the first model to feature an active digital light signature. This gives the headlights and rear lights a lifelike appearance through movement. At the front end, the active digital light signature is created with 12 segments that dim up or down. At the rear, six OLED panels with a total of 360 segments generate a new image every 10 milliseconds using a specially developed algorithm."
+    },
+    "31": {
+        "Question": "What is the power consumption (combined) of the Audi SQ6 e-tron?",
+        "Answer": "The power consumption (combined) of the Audi SQ6 e-tron is 18.4–17.5 kWh/100 km.",
+        "OriginalText": "Audi SQ6 e-tron: electric power consumption (combined) in kWh/100 km: 18.4–17.5;"
+    },
+    "32": {
+        "Question": "What is the function of the Adaptive Cruise Assist Plus in the Audi Q6 e-tron?",
+        "Answer": "The Adaptive Cruise Assist Plus in the Audi Q6 e-tron assists the driver in accelerating, maintaining speed, keeping distance, and staying in lane, while also using high-resolution map data and cloud-based swarm data to improve driving behavior.",
+        "OriginalText": "One new feature is adaptive cruise assist plus. This system not only assists the driver when it comes to accelerating, maintaining speed, keeping distance and staying in lane, but also uses high-resolution map data and cloud-based swarm data from other vehicles to improve the driving behavior of the electric SUV."
+    },
+    "33": {
+        "Question": "Which platform is shared by the Audi Q7, Audi Q8, Bentley Bentayga, and Lamborghini Urus?",
+        "Answer": "The Audi Q7, Audi Q8, Bentley Bentayga, and Lamborghini Urus all share the same platform: the modular longitudinal matrix (MLB).",
+        "OriginalText": "For example, the Audi Q7, Audi Q8, Bentley Bentayga and Lamborghini Urus all share the same platform: the modular longitudinal matrix (MLB)."
+    },
+    "34": {
+        "Question": "Which factory is responsible for the bodywork of the Lamborghini Huracán?",
+        "Answer": "The bodywork of the Lamborghini Huracán is worked on in the body shop at the Böllinger Höfe factory in Neckarsulm.",
+        "OriginalText": "In the sports car production facility at Böllinger Höfe in Neckarsulm, the team in the body shop also works simultaneously on the body of the Lamborghini Huracán."
+    },
+    "35": {
+        "Question": "In which year will the fully electric Audi Q6 e-tron and Audi A6 e-tron models be launched?",
+        "Answer": "These two fully electric Audi models will be launched in 2024.",
+        "OriginalText": "The next step is to finalize other important new products for 2024: especially the Audi Q6 e‑tron, Audi A6 e‑tron."
+    },
+    "36": {
+        "Question": "What is the core of Lamborghini's 'Direzione Cor Tauri' strategy?",
+        "Answer": "The core of Lamborghini's 'Direzione Cor Tauri' strategy is decarbonization and electrification, which is divided into three phases: improvement of combustion engines, electrification of the entire product range, and the introduction of electric models.",
+        "OriginalText": "Decarbonization and electrification are also at the heart of Lamborghini’s 'Direzione Cor Tauri' strategy. It is split into three phases. The first phase focused on final improvements to the combustion engines (2021–2022), while the second phase is dedicated to electrifying the entire product range (hybrid drives by the end of 2024)."
+    },
+    "37": {
+        "Question": "What is the world's first supercar with a V12 plug-in hybrid system?",
+        "Answer": "The world's first supercar with a V12 plug-in hybrid system is the Lamborghini Revuelto³.",
+        "OriginalText": "The Lamborghini Revuelto³, the world’s first supercar with V12 plug-in hybrid, kicked off the hybridization phase in the year under review. This successor to the Aventador is powered by a V12 naturally aspirated engine and three electric motors, which combine to deliver 1,015 PS."
+    },
+    "38": {
+        "Question": "What is the weighted combined electric power consumption per 100 km for the successor of Aventador?",
+        "Answer": "The weighted combined electric power consumption per 100 km for the successor to Aventador, the Revuelto³, is 10.1 kWh.",
+        "OriginalText": "The Lamborghini Revuelto³, the world’s first supercar with V12 plug-in hybrid, kicked off the hybridization phase in the year under review. This successor to the Aventador is powered by a V12 naturally aspirated engine and three electric motors, which combine to deliver 1,015 PS (fuel consumption (weighted combined) in l/100 km: 11.9; electric power consumption (weighted combined) in kWh/100 km: 10.1; CO2 emissions (weighted combined) in g/km: 276; CO2 class (weighted combined): G; fuel consumption with empty battery (combined): 17.8 /100 km; CO2 class with empty battery: G)."
+    },
+    "39": {
+        "Question": "Who is the exclusive supplier for the electric class of the MotoGP™ World Championship?",
+        "Answer": "Ducati is the exclusive supplier for the electric class of the MotoGP™ World Championship.",
+        "OriginalText": "Ducati is the exclusive supplier for the electric class of the MotoGP™ World Championship."
+    },
+    "40": {
+        "Question": "What are the reasons behind the uneven development of electric vehicle demand across different regions for Audi?",
+        "Answer": "The reasons behind the uneven development of electric vehicle demand across different regions are primarily due to the slow development of electric vehicle charging infrastructure, as well as varying price and subsidy policies, which lead to differing levels of acceptance of electric mobility in each region.",
+        "OriginalText": "In addition, there are risks in connection with the speed of the general shift to electric mobility, particularly with regard to the heterogeneous development of demand for electric models in the different regions. This results from, among other things, the slow development of the charging infrastructure for electric vehicles, as well as from the respective price and subsidy policies and the associated low acceptance of electric mobility."
+    },
+    "41": {
+        "Question": "What is the world's largest initiative for sustainable corporate governance?",
+        "Answer": "The world's largest initiative for sustainable corporate governance is the United Nations Global Compact (UNGC).",
+        "OriginalText": "Audi is a member of the United Nations Global Compact (UNGC), the world’s largest initiative for sustainable corporate governance, and promotes the implementation of the UN Sustainable Development Goals (SDGs) within this framework."
+    },
+    "42": {
+        "Question": "What is the largest source of carbon emissions in the supply chain of electric vehicles?",
+        "Answer": "The largest source of carbon emissions in the supply chain of an electric vehicle is the high-voltage battery, followed by parts made of aluminum and steel.",
+        "OriginalText": "The biggest emissions driver in the supply chain for an electric vehicle is the high-voltage battery, followed by parts made of aluminum and steel. All of the components in these three areas together are generally responsible for more than half of the carbon footprint."
+    },
+    "43": {
+        "Question": "What action areas does the Mission:Zero environmental program involve?",
+        "Answer": "The Mission:Zero environmental program involves four action areas: water usage, biodiversity, resource efficiency, and decarbonization.",
+        "OriginalText": "The Mission:Zero environmental program combines all the company’s initiatives for reducing the ecological footprint in production and logistics. There are four action areas: water usage, biodiversity, resource efficiency and decarbonization."
+    },
+    "44": {
+        "Question": "What are the four steps Audi is taking to achieve net carbon neutrality² at its production sites¹?",
+        "Answer": [
+            "Increase energy efficiency",
+            "Produce own renewable energy",
+            "Purchase renewable energy",
+            "Offset the currently unavoidable emissions through climate action projects"
+        ],
+        "OriginalText": "These are the four steps Audi is taking to achieve net carbon neutrality² at its production sites¹:\n\n1. Increase energy efficiency\n2. Produce own renewable energy\n3. Purchase renewable energy\n4. Offset the currently unavoidable emissions through climate action projects"
+    },
+    "45": {
+        "Question": "How many square meters of photovoltaic facilities does Audi's plant in Győr, Hungary, have?",
+        "Answer": "The Audi plant in Győr, Hungary, has a photovoltaic facility that covers an area of around 160,000 square meters.",
+        "OriginalText": "Győr: The Audi plant in Hungary has a photovoltaic facility that covers an area of around 160,000 square meters."
+    },
+    "46": {
+        "Question": "Which is the first Audi model based on the new Premium Platform Electric (PPE)?",
+        "Answer": "The first Audi model based on the new Premium Platform Electric (PPE) is the Audi Q6 e-tron.",
+        "OriginalText": "The new Audi Q6 e-tron is representative of the refined Audi DNA and brings 'Vorsprung durch Technik' to life. This fully electric midsize SUV fits right into the model portfolio between the Audi Q4 e-tron and Audi Q8 e-tron. It is the first Audi model to be based on the new Premium Platform Electric (PPE) and features the E³ 7.2 electronics architecture, which has also been completely newly developed."
+    },
+    "47": {
+        "Question": "How much CO2 emissions will Audi reduce annually by operating the first block train between its Ingolstadt, Neckarsulm, and Győr sites?",
+        "Answer": "By operating the block train, Audi will reduce its CO2 emissions by 11,500 metric tons annually compared to traditional road transport.",
+        "OriginalText": "In April 2024, Audi will commence operation of its first block train between its Ingolstadt, Neckarsulm and Győr sites in combination with upstream and downstream transportation by truck. This project will allow Audi to reduce its $\\mathsf{C O}_{2}$ emissions by 11,500 metric tons annually compared with traditional road transport."
+    },
+    "48": {
+        "Question": "Where can I find information about the number of charging points, current pricing plans, and contract details?",
+        "Answer": "Information on the number of charging points, current pricing plans, and contract details can be found on the audi.co.uk website.",
+        "OriginalText": "Further information on the number of charging points as well as current price plans and contract information can be found at audi.co.uk."
+    },
+    "49": {
+        "Question": "What is the biggest lever for decarbonizing finished vehicle logistics?",
+        "Answer": "The biggest lever for decarbonizing finished vehicle logistics is overseas transport. Audi is increasingly focusing on alternative drive systems, such as ships running on LNG (liquefied natural gas).",
+        "OriginalText": "Overseas transport represents the largest single lever for decarbonizing finished vehicle logistics. Step by step, Audi is increasingly focusing here on alternative drive systems such as ships that run on LNG (liquefied natural gas)."
+    },
+    "50": {
+        "Question": "How is energy intensity defined and calculated?",
+        "Answer": "Energy intensity refers to the energy consumed in automotive production (including component manufacturing). It is calculated by dividing the overall energy consumption of car and component plants by the number of cars produced at those sites.",
+        "OriginalText": "The energy intensity indicated refers to automotive production (including component manufacturing). This is calculated by dividing the overall energy consumption of car and component plants by the number of cars built at the sites."
+    },
+    "51": {
+        "Question": "What is the first German project for expanding the supply of green electricity?",
+        "Answer": "The first German project for expanding green electricity supply is a solar park in Mecklenburg-Vorpommern.",
+        "OriginalText": "The first German project for expanding the supply of green electricity is a solar park in Mecklenburg-Vorpommern. It was developed in collaboration with the German utility company RWE."
+    },
+    "52": {
+        "Question": "Which company did Audi collaborate with to develop the first German green electricity supply expansion project?",
+        "Answer": "Audi collaborated with the German utility company RWE to develop the first German green electricity supply expansion project.",
+        "OriginalText": "The first German project for expanding the supply of green electricity is a solar park in Mecklenburg-Vorpommern. It was developed in collaboration with the German utility company RWE."
+    },
+    "53": {
+        "Question": "What is the total design capacity and the number of solar panels for the solar park in Mecklenburg-Vorpommern?",
+        "Answer": "The solar park in Mecklenburg-Vorpommern has a total design capacity of 170 million kilowatt-hours, with nearly 420,000 solar panels.",
+        "OriginalText": "The plant came on stream in 2022 and is designed for a total capacity of 170 million kilowatt hours. The sun generates as much electricity here a year as is needed to power 50,000 households annually. Encompassing nearly 420,000 solar panels over an area the size of almost 350 soccer fields, it is one of the largest independent solar parks in Germany."
+    },
+    "54": {
+        "Question": "What are the three reuse objectives for high-voltage batteries promoted by the Audi Group?",
+        "Answer": "The Audi Group promotes three reuse objectives for high-voltage batteries: 1) Remanufacturing, which involves continuing to use high-voltage batteries in electric vehicles. 2) Second-life concepts, where batteries are repurposed for years outside of electric vehicles, such as in fast-charging stations at Audi charging hubs. 3) Efficient recycling, which is carried out in Germany, for example, at a Volkswagen pilot plant in Salzgitter.",
+        "OriginalText": "In terms of electric cars, the lithium-ion battery is one part that is of particular importance with regard to recycling. High-voltage batteries can continue to be used meaningfully even after many years of service on the road. Audi is pursuing three possible reuse objectives in cooperation with the Volkswagen Group: firstly remanufacturing, which involves continuing to use high-voltage batteries in electric vehicles. The second involves so-called second-life concepts, which give batteries a second life for years outside of an electric vehicle – for instance in the fast-charging stations of an Audi charging hub. And the third is efficient recycling. This is done in Germany, for example, at a Volkswagen pilot plant in Salzgitter."
+    },
+    "55": {
+        "Question": "What is the combined electric power consumption of the Audi Q8 Sportback 55 e-tron quattro?",
+        "Answer": "The combined electric power consumption of the Audi Q8 Sportback 55 e-tron quattro is 24.1–19.9 kWh/100 km.",
+        "OriginalText": "Audi Q8 Sportback 55 e-tron quattro: electric power consumption (combined) in kWh/100 km: 24.1–19.9; CO₂ emissions (combined) in g/km: 0; CO₂ class: A."
+    },
+    "56": {
+        "Question": "How many upgrade options are available for the new Audi Q6 e-tron in Europe through the functions on demand?",
+        "Answer": "The new Audi Q6 e-tron offers about twelve upgrade options in Europe through the functions on demand.",
+        "OriginalText": "For example, the new Audi Q6 e-tron offers about a dozen such upgrade options in Europe."
+    },
+    "57": {
+        "Question": "What is the maximum range of the Audi Q4 Sportback 45 e-tron in the WLTP cycle?",
+        "Answer": "The Audi Q4 Sportback 45 e-tron achieves a maximum range of up to 562 kilometers in the WLTP cycle.",
+        "OriginalText": "For example, the Audi Q4 Sportback 45 e-tron now achieves a range of up to 562 kilometers in the WLTP cycle."
+    },
+    "58": {
+        "Question": "Where is the Volkswagen Group's fuel cell technology center located?",
+        "Answer": "The Volkswagen Group's fuel cell technology center is located in Neckarsulm.",
+        "OriginalText": "The Volkswagen Group competence center for fuel cell technology in Neckarsulm is continually advancing a range of different technology and market monitoring measures and ensuring access to technology."
+    },
+    "59": {
+        "Question": "How much does R33 Blue Diesel and Blue Gasoline reduce CO₂ emissions compared to fossil fuels?",
+        "Answer": "R33 Blue Diesel and Blue Gasoline reduce CO₂ emissions by at least 20 percent compared to fossil fuels.",
+        "OriginalText": "R33 Blue Diesel and Blue Gasoline reduce CO₂ emissions when driving by at least 20 percent compared with fossil fuels."
+    },
+    "60": {
+        "Question": "How much CO₂ does the renewable fuel HVO (hydrotreated vegetable oil) save compared to fossil diesel?",
+        "Answer": "HVO (hydrotreated vegetable oil) can save between 70 and 95 percent of CO₂ emissions compared to fossil diesel.",
+        "OriginalText": "This fuel offers CO₂ savings of between 70 and 95 percent compared with fossil diesel."
+    },
+    "61": {
+        "Question": "Where is Audi Group's battery testing center located?",
+        "Answer": "The Audi Group's battery testing center is located in Gaimersheim.",
+        "OriginalText": "Audi is playing its part in making the high-voltage battery a core competence in the Volkswagen Group. This process is supported by the center of competence for high-voltage batteries in Neckarsulm, where prototypes of new high-voltage battery modules are tested for various electric vehicles, and the battery testing center in Gaimersheim, where Audi designs and develops battery cells."
+    },
+    "62": {
+        "Question": "What is the 'Audi Reloaded' project?",
+        "Answer": "The 'Audi Reloaded' project focuses on refurbishments and upgrades to extend the service life of vehicles. Used cars are inspected for quality, reconditioned to high standards, and offered with a 36-month warranty, while upgrades allow the addition of optional features like the S line exterior or matrix LED headlights.",
+        "OriginalText": "Audi is currently carrying out a project called 'Audi reloaded,' which looks at the possibilities offered by refurbishments and upgrades. Within the refurbishment process, used cars are checked in terms of quality, assessed both visually and technically, reconditioned according to the highest standards both internally and externally, wear parts replaced and a manufacturer's warranty of 36 months on the whole vehicle provided. In addition, upgrades will make it possible to retrospectively install optional equipment such as the S line exterior or matrix LED headlights."
+    },
+    "63": {
+        "Question": "What are the four approaches in Audi's reuse principle?",
+        "Answer": "The four approaches in Audi's reuse principle are: 1) Remanufacturing: used parts are extensively reworked and reconditioned. 2) Repair: defective parts are repaired for reuse. 3) Used parts: parts are used without reconditioning for repairs. 4) Second life: vehicle parts are reconditioned for non-automotive use.",
+        "OriginalText": "The reuse principle is divided into four approaches: 1) Remanufacturing: Used parts are extensively reworked and reconditioned. 2) Repair: Damage to defective parts is repaired in order to enable reuse. 3) Used parts: Used parts are installed to repair vehicles without being reconditioned beforehand. 4) Second life: Vehicle parts are reconditioned for non-automotive use."
+    },
+    "64": {
+        "Question": "What two approaches does Audi take in its recycling principle?",
+        "Answer": "Audi follows two approaches in its recycling principle: 1) Recovery of secondary materials from end-of-life vehicles (end-of-life recycling) by disassembling vehicles into components and remanufacturing used raw materials. 2) Use of secondary materials in the production of new vehicles, wherever technically feasible, environmentally sound, and economically justifiable.",
+        "OriginalText": "The company is therefore following two approaches in respect of the recycle principle: 1) Recovery of secondary materials from end-of-life vehicles at the end of the utilization phase (end-of-life recycling): disassembly of vehicles into individual components and subsequent remanufacturing of used raw materials, ideally without any loss of quality. 2) Use of secondary materials in the production process of new vehicles: secondary materials should be used wherever technically feasible, environmentally sound, and economically justifiable."
+    },
+    "65": {
+        "Question": "Which companies did Audi collaborate with on the GlassLoop project?",
+        "Answer": "Audi collaborated with Reiling Glas Recycling, Saint-Gobain Glass, and Saint-Gobain Sekurit on the GlassLoop project.",
+        "OriginalText": "GlassLoop was another project undertaken in the year under review in collaboration with Reiling Glas Recycling, Saint-Gobain Glass, and Saint-Gobain Sekurit in which Audi demonstrated how material cycles can be implemented in series production."
+    },
+    "66": {
+        "Question": "In which year did Audi start its partnership with the Chinese automotive group FAW?",
+        "Answer": "1988",
+        "OriginalText": "The partnership with the Chinese automotive group First Automotive Works (FAW) dates all the way back to 1988. Audi was thus the first foreign premium manufacturer in the Chinese market and also the first to adapt its product portfolio to the specific needs of Chinese customers, for example, by launching Audi models with an extended wheelbase."
+    },
+    "67": {
+        "Question": "Which part related to the PlasticLoop project is installed in the Audi Q8 e-tron?",
+        "Answer": "In the Audi Q8 e-tron, the plastic covers for the seat belt buckles are installed, which are produced through the recycling process of the PlasticLoop project.",
+        "OriginalText": "Audi installs safety-relevant parts produced in such a recycling process in the Audi Q8 e-tron: the plastic covers for the seat belt buckles."
+    },
+    "68": {
+        "Question": "What is the combined power consumption of the Audi Q8 e-tron?",
+        "Answer": "The combined power consumption of the Audi Q8 e-tron is between 29.0 and 20.1 kWh/100 km.",
+        "OriginalText": "Audi Q8 e-tron: electric power consumption (combined) in kWh/100 km: 29.0-20.1;"
+    },
+    "69": {
+        "Question": "In which year was the Global Battery Alliance founded?",
+        "Answer": "The Global Battery Alliance was founded in 2017.",
+        "OriginalText": "The alliance was founded in 2017 and consists of public and private-sector partners from along the entire battery supply chain."
+    },
+    "70": {
+        "Question": "How much recycled glass is used in the windshield of the Audi Q4 e-tron?",
+        "Answer": "The windshield of the Audi Q4 e-tron uses up to 30% recycled glass.",
+        "OriginalText": "Since fall 2023, the windshield in the Audi Q4 e-tron uses glass with a recycled content of up to 30 percent recovered from car windows that can no longer be repaired."
+    },
+    "71": {
+        "Question": "What ambitious reforestation project is Audi undertaking in Mexico?",
+        "Answer": "Audi is launching an ambitious reforestation project in Mexico. Near the Audi site in San José Chiapa, specifically in a forested area known as Santa Cruz del Bosque, the company plans to plant 42,900 trees over an area of 39 hectares. The forest had suffered significant damage due to bark beetle infestation.",
+        "OriginalText": "Audi México launched an ambitious reforestation project. In a wooded area near the Audi site in San José Chiapa, known as Santa Cruz del Bosque, the company plans to successively plant 42,900 trees over an area of 39 hectares. The forest had suffered considerable damage due to an infestation of bark beetles."
+    },
+    "72": {
+        "Question": "How much water does Audi currently need to produce one vehicle?",
+        "Answer": "On average, it currently takes around two to three cubic meters of water to produce a vehicle.",
+        "OriginalText": "On average, it currently takes around two to three cubic meters of water to produce a vehicle."
+    },
+    "73": {
+        "Question": "In which year did Audi Mexico become the first premium car manufacturer in the world to produce vehicles without any wastewater?",
+        "Answer": "Audi Mexico became the first premium car manufacturer in the world to produce vehicles without any wastewater in 2018.",
+        "OriginalText": "Audi México is the first premium manufacturer worldwide to produce vehicles without any wastewater and has been doing so since 2018."
+    },
+    "74": {
+        "Question": "How much drinking water does the Audi Brussels and Hydria 'Re-use' project save annually?",
+        "Answer": "The Audi Brussels and Hydria 'Re-use' project saves around 100,000 cubic meters of drinking water annually.",
+        "OriginalText": "Audi Brussels, together with its Belgian partner company Hydria, is investing in the 'Re-use' project to integrate the Brussels South wastewater treatment plant into the production site’s water supply. This will create a closed water cycle that will save around 100,000 cubic meters of drinking water per year."
+    },
+    "75": {
+        "Question": "Which company was the first foreign premium manufacturer in the Chinese market?",
+        "Answer": "Audi",
+        "OriginalText": "Audi was thus the first foreign premium manufacturer in the Chinese market and also the first to adapt its product portfolio to the specific needs of Chinese customers, for example, by launching Audi models with an extended wheelbase."
+    },
+    "76": {
+        "Question": "Which company is Audi collaborating with to build a new water treatment system at its Neckarsulm site?",
+        "Answer": "Audi is collaborating with the 'Unteres Sulmtal' wastewater association to build a new water treatment system at its Neckarsulm site.",
+        "OriginalText": "Audi is building a new waterworks system at its site in Neckarsulm, which is due to go into operation by 2025. To achieve this, Audi is creating a closed water cycle with the wastewater treatment plant of the 'Unteres Sulmtal' wastewater association adjacent to the plant."
+    },
+    "77": {
+        "Question": "What technology has Audi FAW NEV Company in Changchun, China, used to improve water efficiency?",
+        "Answer": "Audi FAW NEV Company in Changchun has used a membrane bioreactor water cycle to improve its water efficiency.",
+        "OriginalText": "The Audi FAW NEV Company in Changchun (China) has acted in response to the high local water risk and succeeded in making its water use more efficient by means of a water cycle with a membrane bioreactor."
+    },
+    "78": {
+        "Question": "How many daycare spots has Audi established near its Ingolstadt and Neckarsulm plants?",
+        "Answer": "Audi has established 274 daycare spots near its Ingolstadt and Neckarsulm plants.",
+        "OriginalText": "For this reason, AUDI AG already provides 274 places in several daycare centers close to the Ingolstadt and Neckarsulm sites. And it is driving forward the provision of childcare by continuously increasing the number of places in regional childcare facilities."
+    },
+    "79": {
+        "Question": "How many driver assistance systems are equipped in the Audi Q8 e-tron⁴?",
+        "Answer": "The Audi Q8 e-tron⁴ features around 40 driver assistance systems.",
+        "OriginalText": "For example, the Audi Q8 e-tron⁴ features around 40 driver assist systems.⁵"
+    },
+    "80": {
+        "Question": "What is the adaptive cruise assist feature in the Audi Q8 e-tron?",
+        "Answer": "The adaptive cruise assist integrates the adaptive cruise control, traffic jam assist, and Audi active lane assist functions.",
+        "OriginalText": "Additional safety features⁵ are also available, such as adaptive cruise assist, which integrates the adaptive cruise control, traffic jam assist and Audi active lane assist functions."
+    },
+    "81": {
+        "Question": "Which Audi model first introduced the digital OLED rear lights?",
+        "Answer": "The digital OLED rear lights were first introduced on the Audi Q6 e-tron in 2024.",
+        "OriginalText": "Audi is proving this yet again with the new generation of digital OLED rear lights that will be optionally available on the Audi Q6 e-tron as a world first in 2024."
+    },
+    "82": {
+        "Question": "How many violation reports were processed through the Volkswagen Group's Supply Chain Grievance Mechanism (SCGM)?",
+        "Answer": "219 violation reports were processed through the SCGM in the Volkswagen Group.",
+        "OriginalText": "In the period under review, 219 reports of violations were processed via the SCGM in the Volkswagen Group."
+    },
+    "83": {
+        "Question": "What activity did Audi AG engage in to win the DGPPN Anti-Stigma Prize?",
+        "Answer": "Audi AG won the DGPPN Anti-Stigma Prize in 2020 for its destigmatization campaign 'Everyone has mental health.'",
+        "OriginalText": "Moreover, with its destigmatization campaign 'Everyone has mental health,' Audi already won the DGPPN Anti-Stigma Prize in 2020."
+    },
+    "84": {
+        "Question": "Which doctoral student is collaborating with the Audi Environmental Foundation to research new methods for recovering raw materials through recycling?",
+        "Answer": "Betty Leibiger, a doctoral student in chemistry at TU Bergakademie Freiberg, is collaborating with the Audi Environmental Foundation to research new methods for recovering raw materials through recycling.",
+        "OriginalText": "Betty Leibiger, doctoral student in chemistry at the TU Bergakademie Freiberg, is researching new ways of recovering raw materials through recycling in collaboration with the Audi Environmental Foundation."
+    },
+    "85": {
+        "Question": "What is the percentage distribution of Environmental, Social, and Governance aspects in the ISS ESG rating for Audi?",
+        "Answer": "In the ISS ESG rating, Environmental aspects account for 60%, while Social and Governance aspects each account for 20%.",
+        "OriginalText": "Sixty percent of the overall ISS ESG rating is derived from results from Environmental (E) aspects, with the other 40 percent coming from Social (S) and Governance (G) aspects."
+    },
+    "86": {
+        "Question": "What is the production target of the Audi FAW NEV joint venture factory in terms of annual vehicle production?",
+        "Answer": "The factory is designed to produce more than 150,000 vehicles per year.",
+        "OriginalText": "Together with FAW, Audi has laid the foundation for the local production of electric models based on the new PPE for the Chinese market. Construction of the factory of the joint venture Audi FAW NEV Company is proceeding according to plan. The factory is designed to produce more than 150,000 vehicles per year."
+    },
+    "87": {
+        "Question": "What are the two main areas Audi focuses on when developing new mobility concepts?",
+        "Answer": "Audi focuses on two main areas: Vehicle on Demand (VOD) and Mobility on Demand (MOD).",
+        "OriginalText": "Audi is currently focusing on developing new mobility concepts in two areas: vehicle on demand (VOD) and mobility on demand (MOD)."
+    },
+    "88": {
+        "Question": "What similar services has Audi already launched under the VOD model?",
+        "Answer": "Under the VOD model, Audi has already launched Audi on demand rent and Audi on demand subscribe services in certain regions.",
+        "OriginalText": "Audi is already offering such services in certain regions with its Audi on demand rent and Audi on demand subscribe solutions."
+    },
+    "89": {
+        "Question": "How many vehicles are there in Europcar's global fleet?",
+        "Answer": "Europcar has a global fleet of approximately 256,000 vehicles.",
+        "OriginalText": "Europcar is one of the leading car rental firms with a worldwide fleet of around 256,000 vehicles."
+    },
+    "90": {
+        "Question": "What is the purpose of the 'Founder Innovation Lab' platform?",
+        "Answer": "The 'Founder Innovation Lab' platform aims to promote new business ideas for Audi or improve the customer mobility experience by offering tangible added value in everyday life.",
+        "OriginalText": "The Founder Innovation Lab, as it is known, primarily provides a framework for promoting ideas for tapping into new areas of business for Audi or for improving the customers’ mobility experience by offering tangible added value in everyday life."
+    },
+    "91": {
+        "Question": "What is Daniel Patnaik's position at Audi, and what are his main responsibilities?",
+        "Answer": "Daniel Patnaik is the Human Rights Officer for Audi Group. His main responsibilities include serving as the primary contact for all human rights-related concerns from authorities, policymakers, and society. He monitors the appropriateness and effectiveness of risk management to ensure compliance with the due diligence obligations arising from the Supply Chain Due Diligence Act and performs control measures according to the associated risks.",
+        "OriginalText": "Daniel Patnaik is Human Rights Officer for the Audi Group. In this independent role, he is the first point of contact for all human rights concerns on the part of the authorities, policymakers and society. One of his key tasks is to monitor the appropriateness and effectiveness of risk management for ensuring compliance with the due diligence obligations arising from the Supply Chain Due Diligence Act and to perform all control measures in accordance with the risk. In this respect, he performs the tasks provided for in section 4(3) of the Supply Chain Due Diligence Act and reports in his role directly to the Chairman of the Board of Management of AUDI AG."
+    },
+    "92": {
+        "Question": "When was the Audi SKD production in Kaluga, Russia suspended?",
+        "Answer": "Audi SKD production in Kaluga was suspended in March 2022.",
+        "OriginalText": "Production in Kaluga (Russia) has been halted since March 2022."
+    },
+    "93": {
+        "Question": "When did the Volkswagen Group Board of Management decide to stop vehicle production in Russia?",
+        "Answer": "The Volkswagen Group Board of Management decided to stop vehicle production in Russia in early March 2022.",
+        "OriginalText": "Against the background of the Russian attack on Ukraine, at the beginning of March the Volkswagen Group Board of Management decided to stop the production of vehicles in Russia until further notice."
+    },
+    "94": {
+        "Question": "When did Markus Duesmann join Audi?",
+        "Answer": "Markus Duesmann joined Audi in April 2020.",
+        "OriginalText": "Markus Duesmann joined Audi in April 2020. As Member of the Board of Management of Volkswagen AG, he also heads up the Premium brand group."
+    },
+    "95": {
+        "Question": "When did Oliver Hoffmann join the Volkswagen Group?",
+        "Answer": "Oliver Hoffmann joined the Volkswagen Group in 2004.",
+        "OriginalText": "Oliver Hoffmann began his career at Volkswagen AG back in 2004. He has been responsible for the Technical Development division at AUDI AG since March 2021."
+    },
+    "96": {
+        "Question": "Where is Bentley's Research and Development center located?",
+        "Answer": "Bentley's Research and Development center is located in Crewe, UK.",
+        "OriginalText": "On top of this we have the development centers of the brand group: Bentley in Crewe, UK, Lamborghini in Sant’Agata Bolognese, Italy, and Ducati in Borgo Panigale near Bologna, Italy."
+    },
+    "97": {
+        "Question": "What is the combined fuel consumption of the Audi RS 6 Avant in liters per 100 kilometers?",
+        "Answer": "12.7–12.1 liters per 100 kilometers.",
+        "OriginalText": "Audi RS 6 Avant: fuel consumption (combined) in l/100 km: 12.7–12.1; CO₂ emissions (combined) in g/km: 289–276; CO₂ class: G."
+    },
+    "98": {
+        "Question": "Where is Lamborghini's Research and Development center located?",
+        "Answer": "Lamborghini's Research and Development center is located in Sant’Agata Bolognese, Italy.",
+        "OriginalText": "On top of this we have the development centers of the brand group: Bentley in Crewe, UK, Lamborghini in Sant’Agata Bolognese, Italy, and Ducati in Borgo Panigale near Bologna, Italy."
+    },
+    "99": {
+        "Question": "When did Hildegard Wortmann become a member of the Volkswagen Group’s extended executive committee, and what division is she responsible for?",
+        "Answer": "Hildegard Wortmann became a member of the Volkswagen Group's extended executive committee in September 2022 and is responsible for the Sales division.",
+        "OriginalText": "Since September 2022, she has also been Member of the Extended Executive Committee of the Volkswagen Group and responsible for its Sales division."
+    },
+    "100": {
+        "Question": "What board position does Dirk Grosse-Loheide hold at Volkswagen Passenger Cars?",
+        "Answer": "Dirk Grosse-Loheide is the Board Member for Procurement at Volkswagen Passenger Cars.",
+        "OriginalText": "Since January 1, 2023, the current Board Member Dirk Grosse-Loheide has also been the Procurement Board Member for the Volkswagen Passenger Cars brand and heads Group Procurement on the Extended Executive Committee."
+    },
+    "101": {
+        "Question": "What year was the final year of the Audi Transformation Plan (ATP)?",
+        "Answer": "The final year of the Audi Transformation Plan (ATP) was 2022.",
+        "OriginalText": "The Audi Transformation Plan (ATP) had a positive effect on the operating profit in 2022, its planned final year."
+    },
+    "102": {
+        "Question": "How much did the Audi Transformation Plan (ATP) achieve in total?",
+        "Answer": "The Audi Transformation Plan (ATP) realized around EUR 14.4 billion in total.",
+        "OriginalText": "Since the beginning of the ATP in 2018, the program has therefore realized around EUR 14.4 billion and thus fell just short of the target of EUR 15 billion due to the lower sales volume on account of the pandemic and supply limitations."
+    },
+    "103": {
+        "Question": "Did the Audi Transformation Plan (ATP) achieve its final target of EUR 15 billion?",
+        "Answer": "No, the Audi Transformation Plan (ATP) fell just short of the target of EUR 15 billion.",
+        "OriginalText": "The ATP proved to be an effective instrument for safeguarding the profitability of Audi. Many of the measures have a long-lasting impact and have already been implemented in daily business. The program has therefore realized around EUR 14.4 billion and thus fell just short of the target of EUR 15 billion due to the lower sales volume on account of the pandemic and supply limitations."
+    },
+    "104": {
+        "Question": "On what date did Audi first consolidate the Bentley brand?",
+        "Answer": "Audi first consolidated the Bentley brand on January 1, 2022.",
+        "OriginalText": "Non-current assets of the Audi Group grew, mainly due to higher capitalized development costs and investment in other property, plant, and equipment, including the first-time consolidation of Bentley as of January 1, 2022."
+    },
+    "105": {
+        "Question": "What is the electric power consumption (combined) for the Audi e-tron GT quattro?",
+        "Answer": "The electric power consumption (combined) for the Audi e-tron GT quattro ranges from 21.6 to 19.6 kWh/100 km.",
+        "OriginalText": "Audi e-tron GT quattro: electric power consumption (combined) in kWh/100 km: 21.6–19.6; \\mathsf{C O}_{2} emissions (combined) in g/km: 0. Information on electric power consumption and \\mathsf{C O}_{2} emissions in ranges depends on the vehicle’s selected equipment. Consumption and emission figures for the vehicle are available only according to WLTP and not according to NEDC."
+    },
+    "106": {
+        "Question": "What are the minimum safeguards included in Audi's compliance with human rights and social standards?",
+        "Answer": "The minimum safeguards include the OECD Guidelines for Multinational Enterprises, the United Nations Guiding Principles on Business and Human Rights, the Fundamental Conventions of the International Labour Organization (ILO), and the International Bill of Human Rights.",
+        "OriginalText": "The minimum safeguards consist of the OECD Guidelines for Multinational Enterprises, the United Nations Guiding Principles on Business and Human Rights, the Fundamental Conventions of the International Labour Organization (ILO) and the International Bill of Human Rights."
+    },
+    "107": {
+        "Question": "What is the maximum system output of the Audi Q6 e-tron quattro¹?",
+        "Answer": "The maximum system output of the Audi Q6 e-tron quattro¹ is 285 kW.",
+        "OriginalText": "The Audi Q6 e-tron quattro¹ reaches a maximum system output of 285 kW¹."
+    },
+    "108": {
+        "Question": "In which year will Audi brand fully transition and only launch electric vehicles?",
+        "Answer": "Audi will fully transition to launching only electric vehicles in 2026.",
+        "OriginalText": "In the course of 2026, the brand will then flip the switch and will launch only electric models on the global market from this time on."
+    },
+    "109": {
+        "Question": "What standard is the Audi Group's risk management system based on?",
+        "Answer": "The Audi Group's risk management system is based on the internationally recognized COSO standard.",
+        "OriginalText": "The Risk Management System of the Audi Group is based on the internationally recognized standard of the Committee of Sponsoring Organizations of the Treadway Commission (COSO)."
+    },
+    "110": {
+        "Question": "Which university is Prof. Dr. Miriam Müthel a professor at?",
+        "Answer": "Prof. Dr. Miriam Müthel is a professor at WHU Düsseldorf.",
+        "OriginalText": "Prof. Dr. Miriam Müthel from WHU Düsseldorf, a university that provides academic support to Audi in the area of integrity management..."
+    },
+    "111": {
+        "Question": "What is Elke Neidlein's position at Audi?",
+        "Answer": "Elke Neidlein is the Head of Integrity Management and Compliance Communications/Training at Audi.",
+        "OriginalText": "Elke Neidlein, Head of Integrity Management and Compliance Communications/Training, AUDI AG..."
+    },
+    "112": {
+        "Question": "What are the six skills included in the Integrity Skillset training?",
+        "Answer": "The six skills in the Integrity Skillset training are: 1. Recognizing early signs of misconduct within the company; 2. Identifying moral and legal dilemmas and understanding the overall situation; 3. Recognizing different action options and identifying solutions; 4. Systematically preparing and making moral decisions; 5. Avoiding pseudorational actions and acting accordingly; 6. Critically questioning individual and company misconduct and learning from mistakes.",
+        "OriginalText": "The six skills in the Integrity Skillset training are: 1. Recognizing early signs of misconduct within the company; 2. Identifying moral and legal dilemmas and understanding the overall situation; 3. Recognizing different action options and identifying solutions; 4. Systematically preparing and making moral decisions; 5. Avoiding pseudorational actions and acting accordingly; 6. Critically questioning individual and company misconduct and learning from mistakes."
+    },
+    "113": {
+        "Question": "What are the unique selling points of Audi, Lamborghini, Bentley, and Ducati in the Premium brand group?",
+        "Answer": "The unique selling points are: Audi focuses on progressive design, Lamborghini emphasizes uncompromising performance standards, Bentley offers customization down to the last detail, and Ducati provides emotional driving pleasure on two wheels.",
+        "OriginalText": "The governance model of the Premium brand group focuses on establishing unique selling points for each brand – for example, progressive design at Audi, uncompromising performance standards at Lamborghini, customization down to the last detail at Bentley, and emotional driving pleasure on two wheels at Ducati."
+    },
+    "114": {
+        "Question": "When did production of the current Aventador model end?",
+        "Answer": "The production of the current Aventador model ended in September 2022.",
+        "OriginalText": "The current Aventador model line, on the other hand, is no longer available. It is now completely sold out. Production of the current generation came to an end in September 2022."
+    },
+    "115": {
+        "Question": "In which year did Lamborghini launch its first series-production plug-in hybrid model?",
+        "Answer": "Lamborghini's first series-production plug-in hybrid model is scheduled to be introduced in 2023.",
+        "OriginalText": "The first series-production model with plug-in hybrid will be introduced on the market as early as 2023."
+    },
+    "116": {
+        "Question": "In which year did Ducati win both the MotoGP™ and WorldSBK championships?",
+        "Answer": "Ducati won both the MotoGP™ and WorldSBK championships in 2022.",
+        "OriginalText": "In 2022, Ducati was able to celebrate its best sporting year of all time having triumphed in both the MotoGP™ and WorldSBK championships."
+    },
+    "117": {
+        "Question": "Which Ducati MotoGP rider won the championship in 2022?",
+        "Answer": "Ducati's Francesco Bagnaia won the MotoGP championship in 2022.",
+        "OriginalText": "In MotoGP™, Italian rider Francesco Bagnaia won the MotoGP riders’ title after an unprecedented comeback."
+    }
+}
